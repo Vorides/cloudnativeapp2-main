@@ -4,7 +4,8 @@
   "description": "primeiro json",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/Vorides/cloudnativeapp2/issues"
   },
-  "homepage": "https://github.com/Vorides/cloudnativeapp2#readme"
+  "homepage": "https://github.com/Vorides/cloudnativeapp2#readme",
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "husky": "^8.0.0",
+    "json-server": "^0.17.1",
+    "prettier": "^2.8.3",
+    "prettier-plugin-organize-imports": "^3.2.2"
+  }
 }
