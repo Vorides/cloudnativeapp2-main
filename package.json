@@ -1,0 +1,19 @@
+{
+  "name": "cloudnativeapp2-main",
+  "version": "1.0.0",
+  "description": "primeiro json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vorides/cloudnativeapp2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vorides/cloudnativeapp2/issues"
+  },
+  "homepage": "https://github.com/Vorides/cloudnativeapp2#readme"
+}
